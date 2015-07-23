@@ -124,8 +124,8 @@ public class Program2PSPGUI extends javax.swing.JFrame {
                 .addGap(18, 18, 18)
                 .addComponent(jLabelProcessResults)
                 .addGap(18, 18, 18)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 162, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(34, Short.MAX_VALUE))
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 183, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(25, Short.MAX_VALUE))
         );
 
         jScrollPane1.getAccessibleContext().setAccessibleParent(jScrollPane1);
